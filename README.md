@@ -1,1 +1,2 @@
-# Prak-Pemrograman-Web-Server-Side
+# Praktikum Pemrograman Web Server Side
+Repositori ini memuat arsip kode pada mata kuliah Praktikum Pemrograman Web Server Side di semester 4. Yang mana di dalamnya terdapat bagian praktik, latihan dan tugas yang telah saya kerjakan.
