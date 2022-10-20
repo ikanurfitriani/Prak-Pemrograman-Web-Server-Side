@@ -1,5 +1,5 @@
 # Praktikum Pemrograman Web Server Side
-Repositori ini memuat arsip kode dari mata kuliah Praktikum Pemrograman Web Server Side di semester 4. Yang mana di dalamnya terdapat bagian praktik, latihan dan tugas yang telah saya kerjakan.
+This repository contains code archives from the Web Server Side Programming Practicum course in semester 4. In which there are practical sections, exercises and assignments that I have done.
 
 ## Author
 [@Ika Nurfitriani](http://github.com/ikanurfitriani)
